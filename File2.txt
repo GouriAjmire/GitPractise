@@ -1,1 +1,2 @@
-To fix the bug1 
+1.To fix the bug1.
+2.change for rebase on which branch CR2 branch
